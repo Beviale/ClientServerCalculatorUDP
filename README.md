@@ -1,7 +1,11 @@
 # ClientServerCalculatorUDP
 <b>Development and implementation of a UDP client/server application written in c language, where the server is a basic remote calculator that responds to client requests.</b>
 
-This is a university project of the computer networks course.
+<i>This is a university project of the computer networks course.</i>
+  
+  
+To run the server follow the path below:"Esonero 2 Server/Debug/Esonero2server.exe".
+To run the client follow the path below:"Esonero 2 Client/Debug/Esonero2Client.exe".
 
 1) The client is started passing as input parameters the name and port number of the UDP server to contact, respecting the following format: srv.di.uniba.it:56700.
 2) The client reads the choice of operation to perform (using the characters +, x, -, /, respectively for Addition, Multiplication, Subtraction and Division) and two integers from the standard input, respecting the following format: + 23 45.
