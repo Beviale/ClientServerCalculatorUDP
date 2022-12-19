@@ -20,3 +20,6 @@ To run the client follow the path below:"Esonero 2 Client/Debug/Esonero2Client.e
 7) The client reads the next operation to be performed from the standard input.
 8) If the character = is entered instead of an operation, the client terminates its process here; otherwise, go back to step 2.
 9) The server never terminates its process.
+
+
+<i>Note: This is an Eclipse Project.</i>
